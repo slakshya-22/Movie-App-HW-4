@@ -1,8 +1,14 @@
-# React + Vite
+# Movie Card UI - React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project that displays a list of movies in a card format. Each card includes the movie's title, year, director, duration, genre, and a brief description.
 
-Currently, two official plugins are available:
+## Features
+- Displays a list of movies in a clean UI  
+- Shows movie poster, title, director, year, duration, genre, and description  
+- Responsive design for better viewing on different screen sizes  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React (Vite for fast development)
+- CSS (External stylesheet)
+- JavaScript (For handling dynamic data)
+
